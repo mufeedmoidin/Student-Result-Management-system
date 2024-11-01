@@ -1,1 +1,1 @@
-"# Result_management_system" 
+the Student Result Management System developed using ASP.NET provides an efficient and user-friendly solution for managing student results and academic performance. By leveraging the capabilities of ASP.NET, the system ensures a robust, secure, and scalable environment for both administrators and students.
